@@ -1,2 +1,0 @@
-# blog
-Cent's blog.
